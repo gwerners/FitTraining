@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=FitTraining
+Comment=Calistenics App
+Type=Application
+Exec=FitTraining
+Icon=FitTraining
+Terminal=false
+Categories=Qt;Utility;
